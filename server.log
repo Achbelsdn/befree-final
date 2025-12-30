@@ -1,0 +1,13 @@
+[OAuth] Initialized with baseURL: http://localhost:3000
+Server running on http://localhost:3000/
+URIError: Failed to decode param '/%VITE_ANALYTICS_ENDPOINT%/umami'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/home/ubuntu/benin-freelance/node_modules/.pnpm/express@4.21.2/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/home/ubuntu/benin-freelance/node_modules/.pnpm/express@4.21.2/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/home/ubuntu/benin-freelance/node_modules/.pnpm/express@4.21.2/node_modules/express/lib/router/index.js:585:18)
+    at next (/home/ubuntu/benin-freelance/node_modules/.pnpm/express@4.21.2/node_modules/express/lib/router/index.js:226:15)
+    at SendStream.error (/home/ubuntu/benin-freelance/node_modules/.pnpm/serve-static@1.16.2/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (node:events:524:28)
+    at SendStream.error (/home/ubuntu/benin-freelance/node_modules/.pnpm/send@0.19.0/node_modules/send/index.js:270:17)
+    at SendStream.pipe (/home/ubuntu/benin-freelance/node_modules/.pnpm/send@0.19.0/node_modules/send/index.js:515:10)
+    at serveStatic (/home/ubuntu/benin-freelance/node_modules/.pnpm/serve-static@1.16.2/node_modules/serve-static/index.js:125:12)

@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1766568335708,
+      "tag": "0000_curved_lake",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1766568466467,
+      "tag": "0001_fuzzy_energizer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1766569794480,
+      "tag": "0002_chilly_stranger",
+      "breakpoints": true
+    }
+  ]
+}
